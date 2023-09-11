@@ -1,0 +1,5 @@
+[intranet]
+vm-5-node2-ansible
+
+[control]
+localhost ansible_connection=local
