@@ -1,0 +1,6 @@
+[webservers]
+vm-5-node1-ansible
+vm-5-node2-ansible
+
+[workstations]
+vm-5-control-ansible
